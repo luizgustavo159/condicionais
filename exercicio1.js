@@ -1,6 +1,6 @@
 
 let ValorCompra = 200;
-let parcelas = 4;
+let parcelas = 6;
 let desconto = 10;
 let ValorTotal;
 
